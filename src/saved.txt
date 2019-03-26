@@ -1,0 +1,16 @@
+IT, imperfectToreador, Envoy of Madness   Colors: ( 148, 142, 161), ( 201, 198, 208), Element: Death, Interests: Cooking,     peprspryKind, Pepper Spray + Saucepan + Toaster, Land of Dance and Night, Subthemes: Waves, Gardens, Cacophony, Fortification, Consorts: compulsively lying green dolphins that like music        
+
+ZC, zanyCockerel, Prophet of Rhyme        Colors: ( 75, 156, 154), ( 165, 205, 204), Element: Potassium, Interests: Collectibles, Warfare   coatKind, Jacket, + Dalek Figurine, + Model Tank, Land of Wind and Warmth, Subthemes: Teeth, Pulse, Oases, Snakes, Consorts: eccentric multi-colored dolphins that like stories       
+
+BH, byzantineHyperdrive, Cleric of Space  Colors: ( 71, 25, 79), ( 163, 140, 167), Element: Palladium, Interests: Botany, Video Games       clawKind, Bagh Nakh, + Watering Can, + Princess Maker, Land of Tinsel and Science, Subthemes: Fog, Travel, Jolliness, Cobalt, Consorts: arrogant pearl white lions that like exploration            
+
+IB, ishmaelsBalladier, Rogue of Purpose   Colors: ( 52, 49, 245), ( 153, 152, 250), Element: Smoke, Interests: Art, Frivolity fanKind, Electric Fan, + Paintbrush, + Fake Blood Capsules, Land of Waves and Zen, Subthemes: Jail, Rain, Pulse, Pollution, Consorts: stupid blue snakes that like gadgetry           
+
+KC, knifeCatnip, Heir of Dreams           Colors: ( 242, 35, 23), ( 248, 145, 139), Element: Brick, Interests: Art, Gambling  pokerKind, Slightly Burnt Stick, + Charcoal, + Playing Cards, Land of Canopy and Graves, Subthemes: Warmth, Jokers, Gold, Sketch, Consorts: timid beige ducks that like dancing       
+
+ZF, zetaFormula, Guide of Right           Colors: ( 51, 132, 193), ( 153, 193, 224), Element: Stone, Interests: Collectibles, Grimdark Arts fireextKind, Chemical Extinguisher, + Miniature Stargate, + Lovecraftian Novel, Land of Ivory and Presents, Subthemes: Circuitry, Haze, Shattering, Rivers, Consorts: compulsively lying fuschia skunks that like knowledge     
+
+HV, heftyVestibule, Judge of Truth        Colors: ( 158, 198, 22), ( 206, 226, 138), Element: Concrete, Interests: Science, Gambling        icepickKind, Miner's Pick, + Newton's Cradle, + Playing Cards, Land of Brooks and Dolls, Subthemes: Forest, Echo, Lasers, Tranquility, Consorts: joyful white whales that like friendship           
+
+IF, iscariotsFisticuffs, Chieftain of Sorrow            Colors: ( 236, 50, 46), ( 245, 152, 150), Element: Yang, Interests: Archaeology, Science          cleaverKind, Clever, + Jade figurine, + Fusion Reactor, Land of Steel and Warmth, Subthemes: Tin, Dungeons, Tents, Pluck, Consorts: uncoordinated mustard yellow pterodactyls that like mining      
+
